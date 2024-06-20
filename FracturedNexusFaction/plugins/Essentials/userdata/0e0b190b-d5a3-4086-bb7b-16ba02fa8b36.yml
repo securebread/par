@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.20.49.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715850950237
+  login: 1715849623381
+money: '0'
+last-account-name: RAXXELLIAN37
+logoutlocation:
+  world: c411ce34-1b23-4049-8720-ccba6cc0b761
+  world-name: world
+  x: -311.436533455437
+  y: 88.53373821627379
+  z: -615.9611078930668
+  yaw: -178.28016662597656
+  pitch: -11.951207160949707

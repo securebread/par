@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.82.90.254
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715437466351
+  login: 1715435409354
+money: '0'
+last-account-name: ImNyxx
+logoutlocation:
+  world: c411ce34-1b23-4049-8720-ccba6cc0b761
+  world-name: world
+  x: -282.51895134688147
+  y: 74.0
+  z: -640.4757893060289
+  yaw: 96.49755859375
+  pitch: 1.0496591329574585

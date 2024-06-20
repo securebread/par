@@ -1,0 +1,26 @@
+Groups:
+  Admin:
+    Permission: nte.admin
+    Prefix: '&b[&4&lOwner&r&b] &r'
+    Suffix: '&f'
+    SortPriority: 1
+  Moderator:
+    Permission: nte.moderator
+    Prefix: '&b[&aMod&b] &r'
+    Suffix: '&f'
+    SortPriority: 2
+  builder:
+    Permission: ''
+    Prefix: '&b[&2Builder&b] &r'
+    Suffix: ''
+    SortPriority: -1
+  headbuilder:
+    Permission: ''
+    Prefix: '&b[&l&2Lead Builder&r&b] &r'
+    Suffix: ''
+    SortPriority: -1
+  Owner:
+    Permission: ''
+    Prefix: '&b[&4&lOwner&b] &r'
+    Suffix: ''
+    SortPriority: -1

@@ -1,0 +1,5 @@
+Main:
+  announcement-message: '&4&n&lAnnouncement'
+Messages:
+  no-permission: '&cYou don''t have permission for that.'
+  wrong-arguments: '&cInsufficient Arguments, Try /announce <message>'

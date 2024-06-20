@@ -1,0 +1,66 @@
+[01:06:54] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.2.0 (Running 5.2.0-SNAPSHOT-679). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[05:56:18] [Craft Scheduler Thread - 2369 - Vault/INFO]: [Vault] Checking for Updates ... 
+[05:56:18] [Craft Scheduler Thread - 2369 - Vault/INFO]: [Vault] No new version available
+[11:56:18] [Craft Scheduler Thread - 2386 - Vault/INFO]: [Vault] Checking for Updates ... 
+[11:56:20] [Craft Scheduler Thread - 2386 - Vault/INFO]: [Vault] No new version available
+[13:06:56] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.2.0 (Running 5.2.0-SNAPSHOT-679). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[15:05:03] [Server thread/INFO]: Stopping the server
+[15:05:03] [Server thread/INFO]: Stopping server
+[15:05:03] [Server thread/INFO]: [TabList] Disabling TabList v5.7.5
+[15:05:03] [Server thread/INFO]: [LPC] Disabling LPC v3.6.0
+[15:05:03] [Server thread/INFO]: [HeadDB] Disabling HeadDB v5.0.0-rc.10
+[15:05:03] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.23
+[15:05:03] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.33-SNAPSHOT (build 3382)
+[15:05:03] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.10.0
+[15:05:03] [Server thread/INFO]: [Wild] Disabling Wild v4.4.5-SNAPSHOT
+[15:05:03] [Server thread/INFO]: [Vivecraft] Disabling Vivecraft-Spigot-Extensions v1.20.4-2
+[15:05:03] [Server thread/INFO]: [EssentialsDiscord] Disabling EssentialsDiscord v2.21.0-dev+81-cde7184
+[15:05:03] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0-dev+81-cde7184
+[15:05:03] [Server thread/INFO]: [ScreenAnnouncements] Disabling ScreenAnnouncements v1.0.1
+[15:05:03] [Server thread/INFO]: [spark] Disabling spark v1.10.66
+[15:05:04] [Server thread/INFO]: [SaberFactions] Disabling Factions v1.6.9.5-4.1.4-STABLE
+[15:05:04] [Server thread/INFO]: [SaberFactions] ===== Shutdown Start =====
+[15:05:04] [Server thread/INFO]: [FactionData] Saving StaffGuild's Data to the disk
+[15:05:04] [Server thread/INFO]: [SaberFactions] Shutdown Successful!
+[15:05:04] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[15:05:04] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v22.2
+[15:05:04] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[15:05:05] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.2
+[15:05:05] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0-dev+81-cde7184
+[15:05:05] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[15:05:05] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[15:05:05] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+81-cde7184
+[15:05:05] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[15:05:05] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-748;1a31f39
+[15:05:05] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:05:05] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[15:05:05] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.128
+[15:05:05] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[15:05:05] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:05:05] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:05:05] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.10.0
+[15:05:05] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[15:05:05] [Server thread/INFO]: Saving players
+[15:05:05] [Server thread/INFO]: Saving worlds
+[15:05:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 282 entity chunks, 0 poi chunks in world 'world' in 0.13s
+[15:05:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:05:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Saved 149 block chunks, 81 entity chunks, 0 poi chunks in world 'world_nether' in 0.20s
+[15:05:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:05:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:05:06] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[15:05:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:05:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:05:06] [Server thread/INFO]: Flushing Chunk IO
+[15:05:06] [Server thread/INFO]: Closing Thread Pool
+[15:05:06] [Server thread/INFO]: Closing Server

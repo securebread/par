@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 206.45.157.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716346349501
+  login: 1716346125972
+money: '0'
+last-account-name: SecureBread
+logoutlocation:
+  world: c411ce34-1b23-4049-8720-ccba6cc0b761
+  world-name: world
+  x: -285.34959617292947
+  y: 73.0
+  z: -588.9219287339889
+  yaw: 34.151092529296875
+  pitch: -5.561699867248535

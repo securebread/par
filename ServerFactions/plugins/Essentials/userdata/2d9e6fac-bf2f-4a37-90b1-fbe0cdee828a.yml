@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715574531205
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715618466912
+  login: 1715573204570
+money: '0'
+last-account-name: pairvol
+logoutlocation:
+  world: c411ce34-1b23-4049-8720-ccba6cc0b761
+  world-name: world
+  x: -254.7177031823543
+  y: 85.23190614695267
+  z: -649.8664756897895
+  yaw: 67.48939514160156
+  pitch: -3.449634552001953
+lastlocation:
+  world: c411ce34-1b23-4049-8720-ccba6cc0b761
+  world-name: world
+  x: -320.69147394751
+  y: 100.60808224589455
+  z: -630.723527695063
+  yaw: 170.79934692382812
+  pitch: 41.62147521972656
+powertools:
+  blaze_rod:
+  - /undo
+  nether_star:
+  - /redo
+  netherite_sword:
+  - summon lightning_bolt
+  fire_charge:
+  - fireball

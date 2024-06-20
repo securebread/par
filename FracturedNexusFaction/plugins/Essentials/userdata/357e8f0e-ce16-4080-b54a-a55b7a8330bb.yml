@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.44.76.150
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718128826051
+  login: 1718128757741
+money: '0'
+last-account-name: ThatCoolGayFrog
+logoutlocation:
+  world: c411ce34-1b23-4049-8720-ccba6cc0b761
+  world-name: world
+  x: -336.2653461524067
+  y: 73.0
+  z: -619.1487089700166
+  yaw: 174.01246643066406
+  pitch: 32.799556732177734
